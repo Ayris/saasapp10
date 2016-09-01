@@ -66,3 +66,6 @@ gem 'stripe'
 
 # Use figaro to hide secret keys
 gem 'figaro'
+
+# Heroku gem merger plugin
+gem 'rails_12factor', group: :production
